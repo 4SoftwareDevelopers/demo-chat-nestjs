@@ -64,7 +64,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Website - [https://4softwaredevelopers.com](4softwaredevelopers.com)
+- Website - [https://4softwaredevelopers.com](https://4softwaredevelopers.com)
+
 
 ## License
 
